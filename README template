@@ -1,0 +1,21 @@
+# Moheet — Full Stack Portfolio
+
+A short portfolio demonstrating backend services, ETL pipelines, and modern front-end work.
+
+## Projects
+- **Demand-Forecast-Dashboard** — React + Next.js dashboard with mock real-time data and virtualization for large datasets.
+- **Data-Pipeline-Optimizer** — Python ETL on AWS style architecture (sample code + README) showing partitioning and query optimization.
+- **Checkout-Service-Demo** — FastAPI async service with unit tests and Dockerfile demonstrating scalable API patterns.
+
+## Highlights
+- Languages: Python, TypeScript, JavaScript, SQL
+- Frameworks: FastAPI, Django, React, Next.js
+- Cloud / CI: AWS / GCP examples, Docker, GitHub Actions
+- Tests: PyTest, Jest
+
+## How to run
+See each project folder for installation and run instructions.
+
+---
+
+Contact: mamoheet9@gmail.com
