@@ -1,0 +1,17 @@
+# set these first
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+
+mkdir moheet-portfolio
+cd moheet-portfolio
+git init
+# add your project files and README.md
+echo "# Moheet — Full Stack Portfolio" > README.md
+git add .
+git commit -m "Initial commit: portfolio README and sample project"
+# create remote repo on GitHub (from CLI) or create via website.
+# If using gh CLI:
+gh repo create moheet-portfolio --public --source=. --remote=origin --push
+# If not using gh, create repo on github.com and then:
+# git remote add origin https://github.com/<your-username>/moheet-portfolio.git
+# git push -u origin main
